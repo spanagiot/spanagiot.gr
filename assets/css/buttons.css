@@ -10,3 +10,19 @@
 .btn-mail{
     background-color: #ea4335;
 }
+.btn-twitter:hover{
+    background-color: #00aced;
+    opacity: 0.7;
+}
+.btn-github:hover{
+    background-color: #333;
+    opacity: 0.7;
+}
+.btn-linkedin:hover{
+    background-color: #0077b5;
+    opacity: 0.7;
+}
+.btn-mail:hover{
+    background-color: #ea4335;
+    opacity: 0.7;
+}
